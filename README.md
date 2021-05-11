@@ -24,3 +24,5 @@ Camera  | 48MP wide camera, 8MP telephoto camera, 13MP ultra wide-angle camera
 ## Device picture
 
 ![Xiaomi Mi 9T/Redmi K20](https://i01.appmifile.com/webfile/globalimg/products/pc/redmik20/index_slider_1.png "Xiaomi Mi 9T/Redmi K20 in carbon black")
+
+Copyright (C) 2020-2021 Wave-OS
