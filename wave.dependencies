@@ -7,7 +7,8 @@
     },
     {
         "repository":  "device_xiaomi_sm6150-common",
-        "target_path": "device/xiaomi/sm6150-common"
+        "target_path": "device/xiaomi/sm6150-common",
+	"branch"     : "staging/r"
     },
     {
         "repository":   "vendor_xiaomi_davinci",
